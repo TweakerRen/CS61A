@@ -161,8 +161,8 @@ def main():
     print(overlap(a, b))  # 3 and 7
     print(overlap(a.rest, b))  # just 7
     print(overlap(Link(0, a), Link(0, b)))
-    display(divide(2, 7)))
-    display(divide(1, 2500)))
+    display(divide(2, 7))
+    display(divide(1, 2500))
 
 
 if __name__ == "__main__":
